@@ -1,7 +1,5 @@
 # hello-world
 Hello World
-{
-  "firstName": "Najma",
-  "lastName": "Abdi",
-  "age": 21
-}
+My name is NAjma Abdi
+I am an IST student
+I like to read, play volleyball, and enjoy walks. 
